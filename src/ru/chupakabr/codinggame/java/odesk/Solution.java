@@ -1,3 +1,5 @@
+package ru.chupakabr.codinggame.java.odesk;
+
 import java.io.*;
 import java.util.*;
 
